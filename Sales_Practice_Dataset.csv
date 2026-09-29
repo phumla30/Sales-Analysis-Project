@@ -1,0 +1,31 @@
+OrderDate,OrderID,Product,Category,City,Quantity,UnitPrice,Sales
+2026-01-03,ORD1001,Notebook,Stationery,Johannesburg,5,25.0,125.0
+2026-01-04,ORD1002,Pen Pack,Stationery,Pretoria,8,15.0,120.0
+2026-01-05,ORD1003,Desk Lamp,Electronics,Johannesburg,2,180.0,360.0
+2026-01-06,ORD1004,Water Bottle,Accessories,Soweto,3,85.0,255.0
+2026-01-07,ORD1005,Backpack,Accessories,Pretoria,1,320.0,320.0
+2026-01-08,ORD1006,Notebook,Stationery,Soweto,10,25.0,250.0
+2026-01-10,ORD1007,Headphones,Electronics,Johannesburg,2,450.0,900.0
+2026-01-11,ORD1008,Pen Pack,Stationery,Pretoria,6,15.0,90.0
+2026-01-12,ORD1009,Water Bottle,Accessories,Johannesburg,4,85.0,340.0
+2026-01-14,ORD1010,Desk Lamp,Electronics,Soweto,1,180.0,180.0
+2026-01-15,ORD1011,Backpack,Accessories,Johannesburg,2,320.0,640.0
+2026-01-16,ORD1012,Notebook,Stationery,Pretoria,7,25.0,175.0
+2026-01-18,ORD1013,Headphones,Electronics,Pretoria,1,450.0,450.0
+2026-01-19,ORD1014,Water Bottle,Accessories,Soweto,5,85.0,425.0
+2026-01-20,ORD1015,Pen Pack,Stationery,Johannesburg,9,15.0,135.0
+2026-01-22,ORD1016,Desk Lamp,Electronics,Pretoria,3,180.0,540.0
+2026-01-23,ORD1017,Backpack,Accessories,Soweto,1,320.0,320.0
+2026-01-24,ORD1018,Notebook,Stationery,Johannesburg,4,25.0,100.0
+2026-01-25,ORD1019,Headphones,Electronics,Soweto,2,450.0,900.0
+2026-01-27,ORD1020,Pen Pack,Stationery,Pretoria,12,15.0,180.0
+2026-02-01,ORD1021,Water Bottle,Accessories,Pretoria,2,85.0,170.0
+2026-02-03,ORD1022,Desk Lamp,Electronics,Johannesburg,2,180.0,360.0
+2026-02-04,ORD1023,Notebook,Stationery,Soweto,8,25.0,200.0
+2026-02-06,ORD1024,Backpack,Accessories,Pretoria,1,320.0,320.0
+2026-02-08,ORD1025,Headphones,Electronics,Johannesburg,3,450.0,1350.0
+2026-02-10,ORD1026,Pen Pack,Stationery,Soweto,5,15.0,75.0
+2026-02-12,ORD1027,Water Bottle,Accessories,Johannesburg,6,85.0,510.0
+2026-02-14,ORD1028,Desk Lamp,Electronics,Pretoria,1,180.0,180.0
+2026-02-16,ORD1029,Notebook,Stationery,Pretoria,6,25.0,150.0
+2026-02-18,ORD1030,Backpack,Accessories,Johannesburg,2,320.0,640.0
